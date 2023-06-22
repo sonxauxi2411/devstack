@@ -25,9 +25,9 @@ repos=(
     "https://github.com/openedx/credentials.git"
     "https://github.com/openedx/cs_comments_service.git"
     "https://github.com/openedx/ecommerce.git"
-    "https://github.com/edx/edx-e2e-tests.git"
+
     "https://github.com/openedx/edx-notes-api.git"
-    "https://github.com/openedx/edx-platform.git"
+    "https://github.com/sonxauxi2411/edx-platform.git"
     "https://github.com/openedx/xqueue.git"
     "https://github.com/openedx/edx-analytics-dashboard.git"
     "https://github.com/openedx/frontend-app-gradebook.git"
@@ -54,9 +54,9 @@ ssh_repos=(
     "git@github.com:openedx/credentials.git"
     "git@github.com:openedx/cs_comments_service.git"
     "git@github.com:openedx/ecommerce.git"
-    "git@github.com:edx/edx-e2e-tests.git"
+
     "git@github.com:openedx/edx-notes-api.git"
-    "git@github.com:openedx/edx-platform.git"
+    "git@github.com:sonxauxi2411/edx-platform.git"
     "git@github.com:openedx/xqueue.git"
     "git@github.com:openedx/edx-analytics-dashboard.git"
     "git@github.com:openedx/frontend-app-gradebook.git"
