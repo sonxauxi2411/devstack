@@ -41,7 +41,7 @@ repos=(
 non_release_repos=(
     "https://github.com/openedx/frontend-app-authn.git"
     "https://github.com/openedx/frontend-app-course-authoring.git"
-    "https://github.com/openedx/frontend-app-learning.git"
+    "https://github.com/FUNiX-Tech/frontend-app-learning.git"
     "https://github.com/openedx/frontend-app-library-authoring.git"
     "https://github.com/openedx/registrar.git"
     "https://github.com/openedx/frontend-app-program-console.git"
